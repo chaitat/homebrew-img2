@@ -1,6 +1,6 @@
 cask "img2" do
   version "1.0.4"
-  sha256 "430101078e0be13b493c4d6b9c776e5516aea3d3fd50c7f43339c38757c8b069"
+  sha256 "452d8d1061534019ea403c4a9b6cee777be360198ee0ba3150cb5beb64a94ad3"
 
   url "https://github.com/chaitat/img2/releases/download/v#{version}/img2.dmg"
   name "img2"
